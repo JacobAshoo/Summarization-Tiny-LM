@@ -1,10 +1,1 @@
-ckpt_step0015000_tl2.6546_vl2.8954.pt filter=lfs diff=lfs merge=lfs -text
-ckpt_step0020000_tl2.4771_vl2.9285.pt filter=lfs diff=lfs merge=lfs -text
-ckpt_step0025000_tl2.2890_vl3.0138.pt filter=lfs diff=lfs merge=lfs -text
-ckpt_step0030000_tl2.1255_vl3.1311.pt filter=lfs diff=lfs merge=lfs -text
-ckpt_step0035000_tl2.0071_vl3.2109.pt filter=lfs diff=lfs merge=lfs -text
-ckpt_step0005000_tl4.1477_vl3.8285.pt filter=lfs diff=lfs merge=lfs -text
-ckpt_step0010000_tl2.8676_vl2.9575.pt filter=lfs diff=lfs merge=lfs -text
-run2 filter=lfs diff=lfs merge=lfs -text
-run3 filter=lfs diff=lfs merge=lfs -text
-run1 filter=lfs diff=lfs merge=lfs -text
+model.pt filter=lfs diff=lfs merge=lfs -text
